@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zakaria Magdy</h1>
-<h3 align="center">A passionate full-stack developer from Egypt</h3>
+<h3 align="left">I'm a Senior front-end developer with +4 years of experience. I enjoy building sites & apps. My focus is React (Next.js).</h3>
 
-- 🔭 I’m currently working on **Hollydeskv2 website**
+- 🔭 I’m currently working on **Hollydeskv2 Application**
 
-- 📫 How to reach me **zakariaamagdy@gmail.com**
+- 📫 How to reach me **zakariamagdy@ymail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://zakaria-magdy.vercel.app" target="blank"><img align="center" src="https://lordicon.com/icons/wired/lineal/1023-portfolio.svg" alt="/zakaria-magdy/" height="30" width="40" /></a>
+</p>
+
 <p align="left">
 <a href="https://linkedin.com/in//zakaria-magdy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/zakaria-magdy/" height="30" width="40" /></a>
 </p>
