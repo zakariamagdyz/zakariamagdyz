@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Magdy</h1>
-<h3 align="left">I'm a Senior front-end developer with +5 years of experience. I enjoy building sites & apps. My focus is React (Next.js).</h3>
+<h3 align="left">I'm a Senior front-end developer with +6 years of experience. I enjoy building sites & apps. My focus is React (Next.js).</h3>
 
 - 🔭 I’m currently working on **Hollydeskv2 Application**
 
